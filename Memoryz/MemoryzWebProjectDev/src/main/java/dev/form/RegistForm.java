@@ -1,3 +1,4 @@
+/* check for GitHub */
 package dev.form;
 
 import org.apache.struts.action.ActionForm;
